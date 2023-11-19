@@ -1,4 +1,4 @@
-# TrilhaDEV - Semana 2
+# TrilhaDEV - Semana 3
 
 Aqui você vai encontrar exercícios de reforço referente as aulas desta semana. 😃 💻
 Não é necessário entregar estas questões, elas servem para você praticar o que aprendeu.
